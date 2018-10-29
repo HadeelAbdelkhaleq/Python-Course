@@ -1,9 +1,3 @@
-
-# coding: utf-8
-
-# In[3]:
-
-
 def convertcurrencies(from_currency = "USD",to_currency = "JOD",amount = 1):
     if from_currency == "USD":
         if to_currency == "JOD":
